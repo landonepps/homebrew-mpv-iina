@@ -19,6 +19,7 @@ EOS
   depends_on "freetype"
   depends_on "openssl@3"
   depends_on "xz"
+  depends_on "landonepps/libaribb24/libaribb24"
 
   uses_from_macos "bzip2"
   uses_from_macos "libxml2"
